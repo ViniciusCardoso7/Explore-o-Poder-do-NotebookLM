@@ -1,5 +1,4 @@
-# Explore-o-Poder-do-NotebookLM
-Data Analysis IA
+# Data Analysis IA
 IA Treinada para pensar baseado nas metodologias e ensinamentos dos 4 principais pensadores da área de Dados. Objetivo: Segundo cérebro baseado nos ensinamentos de 4 autores e suas metodologias e técnicas, de forma armonizada:
 
 1)Bill Inmon: Reconhecido como o "pai do Data Warehouse" (armazenamento de dados), ele definiu o conceito na década de 1970, fundamental para a análise de dados moderna.
